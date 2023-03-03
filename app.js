@@ -1,6 +1,10 @@
 //let hello = "Hello World";
 //alert(hello);
 
+let str1 = 'hellow';
+let str2 = 'world!!';
+alert(str1 + str2);
+
  // let orange = 100;
  // let apple = 120;
  // if(orange < apple){
@@ -32,25 +36,25 @@
 //
 //  alert('2を掛け続けて' + max + 'を超えるのに必要だった回数は' + count + '回です');
 
-let i;
-let num = 0;
-
-for(i = 1; i < 11; i++){
- num = num + i;
-}
-alert("1から10まで足し算した結果は"+ num +"です");
-
-// 整数を代入する
-let int1 = 1;
-
-// 負数を代入する
-let int2 = -10;
-
-// 小数点を代入する
-let float1 = 3.14;
+//let i;
+//let num = 0;
+//
+//for(i = 1; i < 11; i++){
+// num = num + i;
+//}
+//alert("1から10まで足し算した結果は"+ num +"です");
+//
+//// 整数を代入する
+//let int1 = 1;
+//
+//// 負数を代入する
+//let int2 = -10;
+//
+//// 小数点を代入する
+//let float1 = 3.14;
 
 // 文字列を代入する
-let str1 = 'JavaScriptを覚えよう';
+//let str1 = 'JavaScriptを覚えよう';
 
  // let orange = 100;
  // let apple = 120;
@@ -61,7 +65,7 @@ let str1 = 'JavaScriptを覚えよう';
  //  }else{
  //   alert("みかんの値段がりんごより高い");
  //  }
- 
+
   // let orange = 100;
  // let apple = 120;
  // if(orange < apple){
