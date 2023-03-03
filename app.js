@@ -1,9 +1,9 @@
 //let hello = "Hello World";
 //alert(hello);
 
-let str1 = 'hellow';
-let str2 = 'world!!';
-alert(str1 + str2);
+//let str1 = 'hello';
+//let str2 = 'world!!';
+//alert(str1 + str2);
 
  // let orange = 100;
  // let apple = 120;
@@ -75,3 +75,15 @@ alert(str1 + str2);
  //  }else{
  //   alert("みかんの値段がりんごより高い");
  //  }
+
+
+ let orange = 120;
+ let apple = 120;
+
+ if(orange < apple){
+  alert('みかんの値段がりんごより安い')
+ }else if(orange == apple){
+  alert('みかんとりんごの値段は同じ')
+ }else{
+  alert('みかんの値段がりんごより高い')
+ }
