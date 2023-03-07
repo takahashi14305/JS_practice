@@ -131,8 +131,18 @@
 //var nickname = "ichiro"
 //console.log(nickname)
 
-var nickname = "taro"
-console.log(nickname)
-nickname = "jiro"
-console.log(nickname)
+//var nickname = "taro"
+//console.log(nickname)
+//nickname = "jiro"
+//console.log(nickname)
+
+//let nickname = "hiro"
+//console.log(nickname)
+//nickname = "jiro"
+//console.log(nickname)
+
+//const nickname = "beat"
+//console.log(nickname)
+//nickname = 'apple'
+//console.log(nickname)
 
