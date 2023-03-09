@@ -166,12 +166,17 @@
 //foo()
 //console.log(y)
 
-function foo() {
- let x = "webcamp"
- {
-  let y = "hello webcamp"
- }
- console.log(x)
- console.log(y)
+//function foo() {
+// let x = "webcamp"
+// {
+//  let y = "hello webcamp"
+// }
+// console.log(x)
+// console.log(y)
+//}
+//foo()
+
+for (let i = 0; i < 10; ii+){
+ console.log(i)
 }
-foo()
+console.log(i)
