@@ -176,7 +176,7 @@
 //}
 //foo()
 
-for (let i = 0; i < 10; ii+){
- console.log(i)
-}
-console.log(i)
+//for (let i = 0; i < 10; ii+){
+// console.log(i)
+//}
+//console.log(i)
